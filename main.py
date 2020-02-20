@@ -6,7 +6,7 @@ import requests
 from datetime import datetime
 
 # constants
-DHT_PIN = 23  # GPIO nr
+DHT_PIN = 4  # GPIO nr
 DHT_SENSOR = Adafruit_DHT.DHT22
 
 temperature = None
